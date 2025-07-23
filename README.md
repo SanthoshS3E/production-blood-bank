@@ -27,31 +27,6 @@ Database	MongoDB
 Authentication	JWT, Bcrypt
 API Communication	Axios, RESTful APIs
 
-📷 Screenshots
-(You can add screenshots here in Markdown like below, if hosted on GitHub)
-![Dashboard Screenshot](./screenshots/dashboard.png)
-
-📂 Folder Structure
-pgsql
-Copy
-Edit
-BloodLink/
-├── client/    
-                # React Frontend
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── App.js
-├── server/  
-                # Express Backend
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-├── README.md
-└── package.json
-🧪 How to Run Locally
-Prerequisites
-Node.js & npm installed
 
 MongoDB (local or Atlas)
 
