@@ -34,7 +34,7 @@ Setup Instructions
 Clone the repository
 
 
-git clone https://github.com/yourusername/BloodLink.git
+git clone https://github.com/SanthoshS3E/production-blood-bank
 cd BloodLink
 Install server dependencies
 
