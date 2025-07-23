@@ -36,12 +36,14 @@ pgsql
 Copy
 Edit
 BloodLink/
-├── client/               # React Frontend
+├── client/    
+                # React Frontend
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
 │   │   └── App.js
-├── server/               # Express Backend
+├── server/  
+                # Express Backend
 │   ├── models/
 │   ├── routes/
 │   └── server.js
